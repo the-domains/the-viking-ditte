@@ -1,0 +1,28 @@
+name: The Viking Ditte
+favicon: null
+layout_spectrum: 0.7867253536824137
+typography_spectrum: 0.604347042972222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.31685260217636824
+  lightness: 0.9458084027282894
+  saturation: 0.7060159721877426
+  rhythmicContrast: 0.1645478568971157
+purpose: []
