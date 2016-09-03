@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-09-01T06:37:30.198Z'
+datePublished: '2016-09-01T06:39:49.646Z'
+sourcePath: _posts/2016-09-01-ditte-westbury-owner-and-director-or-viking-mortgages-pty.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T06:37:27.316Z'
+dateModified: '2016-09-01T06:39:48.903Z'
 title: 'Ditte Westbury , Owner and Director or Viking Mortgages Pty Ltd'
 publisher: {}
 description: >-
@@ -11,11 +12,10 @@ description: >-
   obtaining finance would be made easier with the right broker and that clients
   need to be looked after the whole way through the process and into the future.
 starred: false
-sourcePath: _posts/2016-09-01-ditte-westbury-owner-and-director-or-viking-mortgages-pty.md
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b08115-498c-4818-97ba-50ce7f96fd12.jpg)
+![TheVikingDitte](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5b08115-498c-4818-97ba-50ce7f96fd12.jpg)
 
 ## Ditte Westbury , Owner and Director or Viking Mortgages Pty Ltd
 
@@ -29,7 +29,7 @@ Viking Mortgages is a based in beautiful Noosa and services all of the Sunshine 
 
 Ditte's Finance career started in 2010 when she owned a lead generation firm that specialised in generating leads for mortgage brokers and property investment companies. Ditte soon realised that she could offer her clients a service if she looked after their financial needs in house. Ditte also worked as the Office Manager and Financial controller in a Drilling Company in Cloncurry and continues to travel to Far North Queensland on a regular basis to look after her "Mining" clients.
 
-Viking Mortgages was started in 2014, Ditte has Certificate IV in Financial Services (Finance/Mortgage Broking) and is a qualified Commissioner for Declarations. Ditte is an accredited broker through one of Australia's Largest Aggregators -- PLAN Australia and she also holds industry accreditations with the Mortgage and Finances Association of Australia and Credit & Investments Ombudsman.
+Viking Mortgages was started in 2014, Ditte has a Diploma of Finance and Mortgage Management, a Certificate IV in Financial Services (Finance/Mortgage Broking) and is a qualified Commissioner for Declarations. Ditte is an accredited broker through one of Australia's Largest Aggregators -- PLAN Australia and she also holds industry accreditations with the Mortgage and Finances Association of Australia and Credit & Investments Ombudsman.
 
 Ditte has a passion for helping her customers to buy property, she is an investor herself and loves helping her clients become investors too.
 
