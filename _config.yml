@@ -1,20 +1,4 @@
-name: The Viking Ditte
-favicon: null
-layout_spectrum: 0.7867253536824137
 typography_spectrum: 0.604347042972222
-title: Ditte Westbury
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ed3237'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9458084027282894
   saturation: 0.7060159721877426
   rhythmicContrast: 0.1645478568971157
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7867253536824137
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: The Viking Ditte
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ditte Westbury
+description: Fighting for the right loan for you!
 purpose: []
